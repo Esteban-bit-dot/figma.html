@@ -29,6 +29,10 @@
                 </div>
             </div>
         </div>
+        <div class: rectangulo>
+          <button enviar </button>
+          <button cerrar </button>
+      </div>
     </body>
 </body>
 </html> 
