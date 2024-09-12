@@ -29,10 +29,16 @@
                 </div>
             </div>
         </div>
+        <tr>
+        <td>
+        <table border="1px solid">
         <div class: rectangulo>
           <button enviar </button>
           <button cerrar </button>
       </div>
+        </table>
+        </td>
+       </tr>
     </body>
 </body>
 </html> 
