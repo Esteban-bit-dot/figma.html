@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic HTML CSS Login Form</title>
+    <title>inicio de sesion</title>
     <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
@@ -24,21 +24,12 @@
                     <label class="login-field-icon fui-lock" for="login-pass"></label>
                     </div>
     
-                    <a class="btn btn-primary btn-large btn-block" href="#">Login</a>
+                    <a class="btn btn-primary btn-large btn-block" href="#">enviar</a>
+                     <a class="btn btn-segundary btn-large btn-block" href="#">cerrar</a>
                     <a class="login-link" href="#">Lost your password?</a>
                 </div>
             </div>
         </div>
-        <tr>
-        <td>
-        <table border="1px solid">
-        <div class: rectangulo>
-          <button enviar </button>
-          <button cerrar </button>
-      </div>
-        </table>
-        </td>
-       </tr>
     </body>
 </body>
 </html> 
