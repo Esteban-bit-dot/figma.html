@@ -1,5 +1,54 @@
-*rectangulo1 {
+#id_principal {
    width:785px;
    height:727px;
    background-color:blue;
+}
+.avatar{
+   width:100px;
+   height:100px;
+   border-radius:15px;
+   align-items: start;
+   
+}
+.boton1{
+    width:94px;
+   height:38px;
+   border:1px solid black;
+   flex-direction: row;
+   flex-direction: columm;
+}
+.boton2{
+   width:94px;
+   height:38px;
+   border:1px solid black;
+   flex-direction: columm;
+}
+.rectangulo1{
+    width:291px;
+   height:186px;
+   margin: auto;
+   flex-direction: row;
+   flex-direction: columm;
+   align-items: end;
+}
+.rectangulo2{
+   width:289px;
+   height:186px;
+    flex-direction: row;
+   flex-direction: columm;
+   align-items: end;
+}
+.rectangulo3{
+       width:291px;
+   height:175px;
+    flex-direction: row;
+   flex-direction: columm;
+   align-items: end;
+}
+.rectangulo4{
+       width:289px;
+   height:175px;
+    flex-direction: row;
+   flex-direction: columm;
+   align-items: end;
 }
