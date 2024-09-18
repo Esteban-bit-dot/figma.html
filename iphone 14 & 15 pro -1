@@ -1,46 +1,16 @@
 <HTML>
-<head>
-<link rel="stylesheet" href="/css/styles.css">
-</head>
-</head>
-<body>
-<tr>
-<td>
-<table border:"1px solid">
-<div class: iphone 14 & 15pro -1 >
-<tr>
-<td>
-<div class: rectangulo>
-<table border:"1px solid">
+    <head>
+        
+        <title> celular</title>
+        <body>
+            <div id_iphone> 
 
-</table>
-</div>
-</td>
-</tr>
-<div class:rectangulo>
-<tr>
-<td>
-<table border:"1px solid">
-
-</table>
-</tr>
-</td>
-</div>
-<div class: circulo>
-area= 2pi * r^(2)
-</div>
-<div class: rectagulo>
-<tr>
-<td>
-<table border:"1px solid">
-
-</table>
-</td>
-</tr>
-</div>
-</div>
-</table>
-</td>
-</tr>
-</body>
-</HTMl>
+                <div class="div0"> </div>
+                
+                <div class="div1"> <button> </button></div>
+                <div class="div2"> <button> </button> </div>
+                <div class="div3"><button> </button> </div>
+            </div>
+        </body>
+    </head>
+</HTML>
