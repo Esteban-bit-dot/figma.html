@@ -1,35 +1,46 @@
-~rectangulo {
-  background color= yellow;
-  width= 393px;
-  height = 852px;
-  
-  
-}
-*rectangulo2{
-  background color black;
-  width= 345px ;
-  height =720px;
-  align-items:start;
-  aligh-items:center;
-}
-.circulo{
-  background color= blue;
-  width= 53px ;
-  height = 51px ;
-  align-items:center;
-  flexbox-direction:row;
-}
-~rectangulo3{
-  background color black;
-  width= 58px ;
-  height =51px;
-  flexbox-direction:row;
-  
+#id_iphone{
+    background-color: yellow;
+    width: 393px;
+    height: 852px;
+    border: 1px solid black;
+    margin: 0 auto;
 }
 
-* rectangulo4{
-  background color black;
-  width= 49px ;
-  height =50px;
-  flexbox-direction:row;
+.div0_rectangulo{
+
+    background-color: black;
+    width:345px;
+    height:720px;
+    align-items: center;
+    box-shadow: none;
+
+}
+
+.div1_button{
+    background-color: aqua;
+    width: 53px;
+    height: 51px;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 10px;
+    box-shadow: none;
+}
+
+.div2_button{
+    background-color: black ;
+    width:53px;
+    height:51px;
+    border-radius: 10px;
+    box-shadow: none;
+}
+.div3_button{
+    background-color: black;
+    width:49px;
+    height:50px;
+    border-radius: 10px;
+    box-shadow: none;
+}
+
+div{
+  border: 1px solid black;
 }
