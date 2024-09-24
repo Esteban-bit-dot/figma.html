@@ -26,7 +26,7 @@
 .rectangulo1{
     width:291px;
    height:186px;
-   margin: auto;
+   margin: 100px;
    flex-direction: row;
    flex-direction: columm;
    align-items: end;
@@ -39,15 +39,15 @@
    align-items: end;
 }
 .rectangulo3{
-       width:291px;
-   height:175px;
+    width:291px;
+    height:175px;
     flex-direction: row;
    flex-direction: columm;
    align-items: end;
 }
 .rectangulo4{
-       width:289px;
-   height:175px;
+    width:289px;
+    height:175px;
     flex-direction: row;
    flex-direction: columm;
    align-items: end;
